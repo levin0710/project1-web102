@@ -29,19 +29,19 @@ button {
   font-weight: 500;
   color: white;
   font-family: inherit;
-  background-color: #3562A6;
+  background-color: #0B0B0B;
   cursor: pointer;
   transition: border-color .25s;
 }
 
 button:hover {
-  border-color: #0E1E5B;
+  border-color: white;
   size: 50px;
 }
 
 .teamCard {
-  color: #000;
-  background-color: #fff;
+  color: white;
+  background-color: #3562A6;
   padding-bottom: 20px;
   box-shadow: 0 15px 25px #817c7c33;
   font-size: medium;
@@ -56,6 +56,11 @@ button:hover {
   height: 300px;
   width: 300px;
   object-fit: cover;
+}
+
+.logoContainer {
+  background-color: white;
+  border-radius: 12px;
 }
 
 
