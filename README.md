@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/CD5O2bX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<iframe class="imgur-embed" width="100%" height="328" frameborder="0" src="https://i.imgur.com/CD5O2bX.gifv#embed"></iframe>
+<img src='walk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
