@@ -1,4 +1,4 @@
-# Web Development Project 1 - _Name of App Here_
+# Web Development Project 1 - _Champions League History_
 
 Submitted by: **Levin Sanchez**
 
@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+https://imgur.com/CD5O2bX
 
 <img src='walk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
